@@ -58,8 +58,9 @@ h1, h2, h3, h4, h5, h6 {
 .angelList{
   background-image: url("../img/angel2.jpg");
   background-size: cover;
-  width: 25pt;
-  height: 25pt
+  background-repeat: no-repeat;
+  min-width: 100vw;
+  min-height: 100vh;
 }
 .angelList:hover {
   background-image: url("../img/angelist-blue.png");

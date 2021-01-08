@@ -56,11 +56,29 @@ h1, h2, h3, h4, h5, h6 {
   transition: background 0.2s ease-in-out;
 }
 .angelList{
-  background-image: url("../img/angelistblack.png");
+  background-image: url("../img/output-onlinepngtools.png");
   background-size: cover;
   background-repeat: no-repeat;
   width: 11pt;
   height: 15pt;
+  position: relative;
+  bottom:7pt;
+  right:1pt
+}
+
+.bx2
+{
+    font-family: 'boxicons' !important;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
+    display: inline-block;
+    text-transform: none;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-bottom:-10pt;
 }
 .angelList:hover {
   background-image: url("../img/angelist-blue.png");

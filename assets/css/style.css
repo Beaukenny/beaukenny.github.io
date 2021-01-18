@@ -309,7 +309,10 @@ section {
   padding: 60px 0;
   overflow: hidden;
 }
-
+.resume {
+  margin-left: 50px;
+  /* padding-left: 50px; */
+}
 .section-bg {
   background: #f5f8fd;
 }
